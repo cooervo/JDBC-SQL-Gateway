@@ -22,12 +22,11 @@ Make sure this app is only available to its intended users. Otherwise, deploying
 ![Alt text](http://i.imgur.com/pnYnD0N.png)
 
 ###Technology used
-* JDBC
+* Java EE: JDBC, JSP, Servlet
 * MySQL
-* JSP 
-* Servlet
 * XML
 * Apache Tomcat
+* CSS and HTML
 
 ####The J Connector was downloaded from
 **mysql-connector-java-5.0.8-bin.jar** from the MySQL website: http://dev.mysql.com/downloads/connector/j/3.1.html
